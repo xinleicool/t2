@@ -1,9 +1,9 @@
 package guavaExamples;
 
-import java.util.Arrays;
-
 import com.google.common.base.Joiner;
 import com.google.common.base.Splitter;
+
+import java.util.Arrays;
 
 // Read more at: https://github.com/google/guava/wiki/StringsExplained
 public class SplitJoinGuava {
